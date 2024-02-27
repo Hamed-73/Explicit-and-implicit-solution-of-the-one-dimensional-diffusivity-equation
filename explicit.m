@@ -1,4 +1,3 @@
-% IN THE NAME OF GOD
 %% DOCUMENT TITLE: Explicit solution of the one-dimensional diffusion equation
 % this program will be able to consider pressure distribution with explicit formulations
 %%
